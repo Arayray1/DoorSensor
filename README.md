@@ -13,3 +13,7 @@ In lines 14 and 17 of the DoorSensor.py code, change the IP address to the IP ad
 ## Automatic Startup
 
 If you want to make it so that the code starts up automatically once it has power and runs presistently check out [Supervisord](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps).
+
+## Devices
+
+This code will run on a BeagleBone Black as well as a Raspberry Pi. I have only tried it on a BeagleBone, so let me know if any errors occur when using this code on a Raspberry Pi.
